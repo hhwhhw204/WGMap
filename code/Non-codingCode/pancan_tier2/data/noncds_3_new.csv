@@ -1,0 +1,343 @@
+geneid,cancer_type
+mirna_pre::mirbase_pre::hsa-mir-200b::MI0000342,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-200a::MI0000737,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-429::MI0001641,epithelial ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-34a::MI0000268,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-30e::MI0000749,chronic myeloid leukemia
+mirna_mat::mirbase_mature::hsa-miR-30c-5p::MIMAT0000244,ovarian cancer
+lncrna.ncrna::gencode::FOXD2-AS1::ENSG00000237424.1,bladder cancer
+mirna_pre::mirbase_pre::hsa-mir-761::MI0003941,colorectal cancer
+mirna_mat::mirbase_mature::hsa-miR-101-3p::MIMAT0000099,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-186::MI0000483,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-760::MI0005567,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-137::MI0000454,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-197::MI0000239,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-92b::MI0003560,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-214::MI0000290,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-199a-3p::MIMAT0000232,osteosarcoma
+mirna_mat::mirbase_mature::hsa-miR-199a-5p::MIMAT0000231,chronic myeloid leukemia
+lncrna.ncrna::gencode::GAS5::ENSG00000234741.3,melanoma
+mirna_mat::mirbase_mature::hsa-miR-488-3p::MIMAT0004763,melanoma
+mirna_mat::mirbase_mature::hsa-miR-181b-5p::MIMAT0000257,glioma
+mirna_pre::mirbase_pre::hsa-mir-135b::MI0000810,lung cancer
+mirna_mat::mirbase_mature::hsa-miR-135b-5p::MIMAT0000758,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-29c::MI0000735,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-29c-3p::MIMAT0000681,endometrial carcinoma
+mirna_pre::mirbase_pre::hsa-mir-205::MI0000285,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-1182::MI0006275,bladder cancer
+lncrna.ncrna::gencode::SFTA1P::ENSG00000225383.2,lung squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-1915::MI0008336,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-346::MI0000826,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-107::MI0000114,cancer
+mirna_mat::mirbase_mature::hsa-miR-146b-5p::MIMAT0002809,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-1307::MI0006444,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-202::MI0003130,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-210::MI0000286,pediatric acute lymphoblastic leukemia
+mirna_mat::mirbase_mature::hsa-miR-210-3p::MIMAT0000267,ovarian cancer
+lncrna.ncrna::gencode::H19::ENSG00000130600.11,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-483-3p::MIMAT0002173,lung non-small cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-129-5p::MIMAT0000242,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-130a::MI0000448,chronic myeloid leukemia
+mirna_mat::mirbase_mature::hsa-miR-130a-5p::MIMAT0004593,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-130a-3p::MIMAT0000425,esophageal squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-192::MI0000234,lung squamous cell carcinoma
+lncrna.ncrna::gencode::NEAT1::ENSG00000245532.4,hepatocellular carcinoma
+lncrna.ncrna::gencode::MALAT1::ENSG00000251562.3,chronic myeloid leukemia
+mirna_pre::mirbase_pre::hsa-mir-3163::MI0014193,retinoblastoma cancer
+mirna_pre::mirbase_pre::hsa-mir-139::MI0000261,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-139-5p::MIMAT0000250,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-326::MI0000808,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-708::MI0005543,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-708-3p::MIMAT0004927,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-34b-3p::MIMAT0004676,Bladder Cancer
+mirna_pre::mirbase_pre::hsa-mir-34c::MI0000743,osteosarcoma
+mirna_mat::mirbase_mature::hsa-miR-34c-5p::MIMAT0000686,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-3656::MI0016056,pancreatic cancer
+mirna_mat::mirbase_mature::hsa-miR-125b-5p::MIMAT0000423,gallbladder cancer
+mirna_mat::mirbase_mature::hsa-let-7a-5p::MIMAT0000062,nasopharyngeal carcinoma
+mirna_pre::mirbase_pre::hsa-mir-100::MI0000102,lung adenocarcinoma
+mirna_pre::mirbase_pre::hsa-mir-200c::MI0000650,esophageal cancer
+mirna_pre::mirbase_pre::hsa-mir-141::MI0000457,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-1291::MI0006353,pancreatic carcinoma
+lncrna.ncrna::gencode::HOTAIR::ENSG00000228630.1,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-148b::MI0000811,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-let-7i::MI0000434,breast cancer
+lncrna.ncrna::gencode::SOCS2-AS1::ENSG00000246985.3,prostate cancer
+mirna_pre::mirbase_pre::hsa-mir-16-1::MI0000070,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-15a::MI0000069,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-17::MI0000071,glioblastoma
+mirna_mat::mirbase_mature::hsa-miR-17-5p::MIMAT0000070,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-18a::MI0000072,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-19a::MI0000073,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-20a::MI0000076,colorectal cancer
+mirna_mat::mirbase_mature::hsa-miR-20a-5p::MIMAT0000075,pancreatic cancer
+mirna_mat::mirbase_mature::hsa-miR-19b-3p::MIMAT0000074,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-623::MI0003637,stomach cancer
+lncrna.ncrna::gencode::PTCSC3::ENSG00000259104.2,anaplastic thyroid cancer
+mirna_mat::mirbase_mature::hsa-miR-342-3p::MIMAT0000753,breast cancer
+lncrna.ncrna::gencode::MEG3::ENSG00000214548.10,chronic myeloid leukemia
+mirna_pre::mirbase_pre::hsa-mir-770::MI0005118,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-770-5p::MIMAT0003948,her2-receptor positive breast cancer
+mirna_pre::mirbase_pre::hsa-mir-493::MI0003132,lung cancer
+mirna_mat::mirbase_mature::hsa-miR-337-3p::MIMAT0000754,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-431::MI0001721,adrenocortical carcinoma
+mirna_mat::mirbase_mature::hsa-miR-433-3p::MIMAT0001627,glioma
+mirna_pre::mirbase_pre::hsa-mir-127::MI0000472,glioma
+mirna_mat::mirbase_mature::hsa-miR-127-3p::MIMAT0000446,esophageal cancer
+mirna_pre::mirbase_pre::hsa-mir-136::MI0000475,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-370::MI0000778,endometrioid ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-370-3p::MIMAT0000722,diffuse large B-cell lymphoma
+mirna_pre::mirbase_pre::hsa-mir-379::MI0000787,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-411::MI0003675,malignant pleural mesothelioma
+mirna_pre::mirbase_pre::hsa-mir-494::MI0003134,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-543::MI0005565,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-495::MI0003135,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-381::MI0000789,osteosarcoma
+mirna_mat::mirbase_mature::hsa-miR-381-3p::MIMAT0000736,diffuse large B-cell lymphoma
+mirna_pre::mirbase_pre::hsa-mir-539::MI0003514,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-487a::MI0002471,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-134::MI0000474,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-134-5p::MIMAT0000447,cervical cancer
+mirna_mat::mirbase_mature::hsa-miR-485-5p::MIMAT0002175,tongue squamous cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-485-3p::MIMAT0002176,lymphocytic leukemia
+mirna_pre::mirbase_pre::hsa-mir-377::MI0000785,lung adenocarcinoma
+mirna_mat::mirbase_mature::hsa-miR-409-3p::MIMAT0001639,diffuse large B-cell lymphoma
+mirna_mat::mirbase_mature::hsa-miR-369-3p::MIMAT0000721,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-410::MI0002465,osteosarcoma
+mirna_pre::mirbase_pre::hsa-mir-203a::MI0000283,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-1268a::MI0006405,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-211::MI0000287,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-190a::MI0000486,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-422a::MI0001444,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-629::MI0003643,cervical cancer
+mirna_pre::mirbase_pre::hsa-mir-630::MI0003644,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-631::MI0003645,multiple myeloma
+mirna_mat::mirbase_mature::hsa-miR-7-5p::MIMAT0000252,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-662::MI0003670,lung squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-193b::MI0003137,hepatitis B virus-associated hepatocellular carcinoma
+mirna_mat::mirbase_mature::hsa-miR-138-5p::MIMAT0000430,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-328::MI0000804,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-140::MI0000456,osteosarcoma
+mirna_mat::mirbase_mature::hsa-miR-140-5p::MIMAT0000431,multiple myeloma
+mirna_pre::mirbase_pre::hsa-mir-22::MI0000078,colon cancer
+mirna_pre::mirbase_pre::hsa-mir-132::MI0000449,nasopharyngeal carcinoma
+mirna_pre::mirbase_pre::hsa-mir-195::MI0000489,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-195-5p::MIMAT0000461,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-497::MI0003138,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-324::MI0000813,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-324-5p::MIMAT0000761,multiple myeloma
+mirna_pre::mirbase_pre::hsa-mir-33b::MI0003646,acute myeloid leukemia
+mirna_mat::mirbase_mature::hsa-miR-33b-3p::MIMAT0004811,lung cancer
+mirna_mat::mirbase_mature::hsa-miR-33b-5p::MIMAT0003301,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-451a::MI0001729,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-144::MI0000460,chronic myeloid leukemia
+mirna_mat::mirbase_mature::hsa-miR-423-5p::MIMAT0004748,glioma
+mirna_pre::mirbase_pre::hsa-mir-193a::MI0000487,multiple myeloma
+mirna_mat::mirbase_mature::hsa-miR-193a-5p::MIMAT0004614,prostate cancer
+mirna_mat::mirbase_mature::hsa-miR-193a-3p::MIMAT0000459,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-152::MI0000462,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-10a::MI0000266,lung cancer
+mirna_mat::mirbase_mature::hsa-miR-142-3p::MIMAT0000434,colon cancer
+mirna_mat::mirbase_mature::hsa-miR-142-5p::MIMAT0000433,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-21::MI0000077,renal cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-21-5p::MIMAT0000076,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-634::MI0003649,ovarian cancer
+lncrna.ncrna::gencode::LINC00511::ENSG00000227036.2,breast cancer
+lncrna.ncrna::gencode::SNHG16::ENSG00000163597.10,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-1268b::MI0016748,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-338-3p::MIMAT0000763,hepatocarcinoma
+lncrna.ncrna::gencode::RP11-838N2.4::ENSG00000266835.1,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-187::MI0000274,esophageal adenocarcinoma
+lncrna.ncrna::gencode::LINC-ROR::ENSG00000258609.1,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-122::MI0000442,hepatocellular carcinoma
+mirna_mat::mirbase_mature::hsa-miR-7-5p::MIMAT0000252_1,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-638::MI0003653,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-199a-3p::MIMAT0000232_1,osteosarcoma
+mirna_mat::mirbase_mature::hsa-miR-199a-5p::MIMAT0000231_1,chronic myeloid leukemia
+mirna_mat::mirbase_mature::hsa-miR-24-3p::MIMAT0000080,head and neck squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-27a::MI0000085,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-23a::MI0000079,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-181c::MI0000271,glioblastoma
+mirna_mat::mirbase_mature::hsa-miR-181c-5p::MIMAT0000258,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-181d::MI0003139,glioblastoma
+lncrna.ncrna::gencode::UCA1::ENSG00000214049.6,prostate cancer
+mirna_pre::mirbase_pre::hsa-mir-3188::MI0014232,nasopharyngeal carcinoma
+mirna_pre::mirbase_pre::hsa-mir-330::MI0000803,colon cancer
+mirna_mat::mirbase_mature::hsa-miR-3190-5p::MIMAT0015073,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-150::MI0000479,bladder cancer
+mirna_pre::mirbase_pre::hsa-let-7e::MI0000066,epithelial ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-125a::MI0000469,laryngeal cancer
+mirna_mat::mirbase_mature::hsa-miR-125a-5p::MIMAT0000443,esophageal squamous cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-125a-3p::MIMAT0004602,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-520a-5p::MIMAT0002833,chronic myeloid leukemia
+mirna_mat::mirbase_mature::hsa-miR-519b-3p::MIMAT0002837,colorectal cancer
+mirna_mat::mirbase_mature::hsa-miR-524-5p::MIMAT0002849,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-519d::MI0003162,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-520h::MI0003175,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-522::MI0003177,colon cancer
+mirna_mat::mirbase_mature::hsa-miR-373-3p::MIMAT0000726,pancreatic carcinoma
+mirna_pre::mirbase_pre::hsa-mir-935::MI0005757,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-1301::MI0003815,chronic myeloid leukemia
+mirna_pre::mirbase_pre::hsa-mir-217::MI0000293,lung cancer
+mirna_pre::mirbase_pre::hsa-mir-216a::MI0000292,lung small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-216b::MI0005569,melanoma
+mirna_pre::mirbase_pre::hsa-mir-128-1::MI0000447,laryngeal cancer
+mirna_pre::mirbase_pre::hsa-mir-26b::MI0000084,laryngeal cancer
+mirna_pre::mirbase_pre::hsa-mir-375::MI0000783,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-149::MI0000478,stomach cancer
+lncrna.ncrna::gencode::LINC00261::ENSG00000259974.2,colon cancer
+mirna_pre::mirbase_pre::hsa-mir-663a::MI0003672,pancreatic ductal adenocarcinoma
+mirna_pre::mirbase_pre::hsa-mir-644a::MI0003659,breast cancer
+lncrna.ncrna::gencode::FER1L4::ENSG00000088340.11,ovarian cancer
+lncrna.ncrna::gencode::ZFAS1::ENSG00000177410.8,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-296::MI0000747,esophageal squamous cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-296-3p::MIMAT0004679,glioblastoma
+mirna_mat::mirbase_mature::hsa-miR-124-3p::MIMAT0000422,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-1914-3p::MIMAT0007890,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-647::MI0003662,stomach cancer
+mirna_pre::mirbase_pre::hsa-let-7c::MI0000064,lung adenocarcinoma
+mirna_mat::mirbase_mature::hsa-miR-125b-5p::MIMAT0000423_1,gallbladder cancer
+mirna_pre::mirbase_pre::hsa-mir-155::MI0000681,lung cancer
+mirna_mat::mirbase_mature::hsa-miR-155-5p::MIMAT0000646,stomach cancer
+lncrna.ncrna::gencode::AP001065.2::ENSG00000230061.1,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-185::MI0000482,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-185-5p::MIMAT0000455,lung non-small cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-301b::MIMAT0004958,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-130b::MI0000748,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-650::MI0003665,lung adenocarcinoma
+lncrna.ncrna::gencode::TUG1::ENSG00000253352.4,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-33a-5p::MIMAT0000091,hepatocellular carcinoma
+mirna_mat::mirbase_mature::hsa-let-7a-5p::MIMAT0000062_1,nasopharyngeal carcinoma
+mirna_pre::mirbase_pre::hsa-let-7b::MI0000063,hepatocellular carcinoma
+lncrna.ncrna::gencode::EGOT::ENSG00000235947.1,cancer
+mirna_pre::mirbase_pre::hsa-mir-26a-1::MI0000083,glioblastoma
+mirna_mat::mirbase_mature::hsa-miR-138-5p::MIMAT0000430_1,lung non-small cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-425-3p::MIMAT0001343,hepatocellular carcinoma
+mirna_mat::mirbase_mature::hsa-miR-425-5p::MIMAT0003393,colorectal cancer
+mirna_pre::mirbase_pre::hsa-let-7g::MI0000433,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-1284::MI0006431,cervical cancer
+lncrna.ncrna::gencode::TUSC7::ENSG00000243197.3,esophageal squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-198::MI0000240,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-15b::MI0000438,stomach cancer
+mirna_mat::mirbase_mature::hsa-miR-15b-5p::MIMAT0000417,colon cancer
+mirna_pre::mirbase_pre::hsa-mir-551b::MI0003575,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-218-5p::MIMAT0000275,gallbladder cancer
+mirna_mat::mirbase_mature::hsa-miR-574-3p::MIMAT0003239,gastric carcinoma
+mirna_pre::mirbase_pre::hsa-mir-297::MI0005775,colorectal carcinoma
+mirna_mat::mirbase_mature::hsa-miR-367-3p::MIMAT0000719,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-302d::MI0000774,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-302a::MI0000738,hepatocellular carcinoma
+mirna_pre::mirbase_pre::hsa-mir-302c::MI0000773,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-302b::MI0000772,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-1243::MI0006373,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-577::MI0003584,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-449a::MI0001648,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-874::MI0005532,stomach cancer
+mirna_mat::mirbase_mature::hsa-miR-874-3p::MIMAT0004911,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-143::MI0000459,colon cancer
+mirna_pre::mirbase_pre::hsa-mir-145::MI0000461,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-378a::MI0000786,liver cancer
+mirna_mat::mirbase_mature::hsa-miR-378a-3p::MIMAT0000732,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-1294::MI0006356,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-146a::MI0000477,epithelial ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-146a-5p::MIMAT0000449,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-103a-1::MI0000109,cancer
+mirna_mat::mirbase_mature::hsa-miR-218-5p::MIMAT0000275_1,gallbladder cancer
+mirna_pre::mirbase_pre::hsa-mir-1271::MI0003814,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-340::MI0000802,colorectal cancer
+mirna_mat::mirbase_mature::hsa-miR-340-5p::MIMAT0004692,osteosarcoma
+mirna_pre::mirbase_pre::hsa-mir-206::MI0000490,lung adenocarcinoma
+mirna_pre::mirbase_pre::hsa-mir-133b::MI0000822,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-30c-2-3p::MIMAT0004550,lung non-small cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-30c-5p::MIMAT0000244_1,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-30a::MI0000088,stomach cancer
+mirna_mat::mirbase_mature::hsa-miR-30a-5p::MIMAT0000087,ovarian cancer
+lncrna.ncrna::gencode::SNHG5::ENSG00000203875.6,lung adenocarcinoma
+mirna_pre::mirbase_pre::hsa-mir-587::MI0003595,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-548b::MI0003596,lung cancer
+mirna_pre::mirbase_pre::hsa-mir-148a::MI0000253,kidney cancer
+mirna_mat::mirbase_mature::hsa-miR-148a-3p::MIMAT0000243,esophageal squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-196b::MI0001150,hepatocellular carcinoma
+mirna_mat::mirbase_mature::hsa-miR-196b-5p::MIMAT0001080,colorectal cancer
+lncrna.ncrna::gencode::HOTTIP::ENSG00000243766.3,lung small cell carcinoma
+lncrna.ncrna::gencode::SNHG15::ENSG00000232956.4,colorectal cancer
+lncrna.ncrna::gencode::TP53TG1::ENSG00000182165.13,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-489::MI0003124,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-25::MI0000082,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-93::MI0000095,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-129-5p::MIMAT0000242_1,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-182::MI0000272,colorectal cancer
+mirna_pre::mirbase_pre::hsa-mir-96::MI0000098,cancer
+mirna_pre::mirbase_pre::hsa-mir-183::MI0000273,nasopharyngeal carcinoma
+mirna_pre::mirbase_pre::hsa-mir-335::MI0000816,melanoma
+mirna_pre::mirbase_pre::hsa-mir-29a::MI0000087,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-29b-1::MI0000105,osteosarcoma
+mirna_mat::mirbase_mature::hsa-miR-490-3p::MIMAT0002806,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-595::MI0003607,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-124-3p::MIMAT0000422_1,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-383::MI0000791,hepatocellular carcinoma
+mirna_mat::mirbase_mature::hsa-miR-383-5p::MIMAT0000738,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-320a::MI0000542,colon cancer
+mirna_mat::mirbase_mature::hsa-miR-124-3p::MIMAT0000422_2,breast cancer
+lncrna.ncrna::gencode::PCAT1::ENSG00000253438.2,prostate cancer
+lncrna.ncrna::gencode::PVT1::ENSG00000249859.3,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-1204::MI0006337,nasopharyngeal carcinoma
+mirna_mat::mirbase_mature::hsa-miR-1207-5p::MIMAT0005871,pancreatic cancer
+mirna_mat::mirbase_mature::hsa-miR-1207-3p::MIMAT0005872,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-30b::MI0000441,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-30d::MI0000255,anaplastic thyroid carcinoma
+mirna_mat::mirbase_mature::hsa-miR-101-3p::MIMAT0000099_1,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-491::MI0003126,osteosarcoma
+mirna_pre::mirbase_pre::hsa-mir-31::MI0000089,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-31-5p::MIMAT0000089,hepatocellular carcinoma
+lncrna.ncrna::gencode::CDKN2B-AS1::ENSG00000240498.2,osteosarcoma
+mirna_pre::mirbase_pre::hsa-mir-873::MI0005564,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-204::MI0000284,neuroblastoma
+mirna_mat::mirbase_mature::hsa-miR-204-5p::MIMAT0000265,colorectal cancer
+mirna_mat::mirbase_mature::hsa-miR-7-5p::MIMAT0000252_2,glioblastoma
+mirna_mat::mirbase_mature::hsa-let-7a-5p::MIMAT0000062_2,nasopharyngeal carcinoma
+mirna_pre::mirbase_pre::hsa-let-7d::MI0000065,head and neck squamous cell carcinoma
+mirna_mat::mirbase_mature::hsa-let-7d-3p::MIMAT0004484,ovarian cancer
+mirna_pre::mirbase_pre::hsa-mir-2278::MI0011285,chronic myeloid leukemia
+mirna_pre::mirbase_pre::hsa-mir-23b::MI0000439,endometrial carcinoma
+mirna_mat::mirbase_mature::hsa-miR-23b-3p::MIMAT0000418,stomach cancer
+mirna_pre::mirbase_pre::hsa-mir-27b::MI0000440,liver cancer
+mirna_mat::mirbase_mature::hsa-miR-27b-3p::MIMAT0000419,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-24-3p::MIMAT0000080_1,head and neck squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-32::MI0000090,myeloid leukemia
+mirna_pre::mirbase_pre::hsa-mir-147a::MI0000262,stomach cancer
+mirna_mat::mirbase_mature::hsa-miR-181b-5p::MIMAT0000257_1,glioma
+mirna_mat::mirbase_mature::hsa-miR-199b-5p::MIMAT0000263,chronic myeloid leukemia
+mirna_pre::mirbase_pre::hsa-mir-126::MI0000471,stomach cancer
+mirna_mat::mirbase_mature::hsa-miR-126-3p::MIMAT0000445,glioblastoma
+mirna_pre::mirbase_pre::hsa-mir-221::MI0000298,oral squamous cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-222::MI0000299,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-501-3p::MIMAT0004774,glioma
+mirna_pre::mirbase_pre::hsa-mir-98::MI0000100,leukemia
+mirna_mat::mirbase_mature::hsa-miR-98-5p::MIMAT0000096,lung cancer
+mirna_pre::mirbase_pre::hsa-mir-223::MI0000300,breast cancer
+lncrna.ncrna::gencode::XIST::ENSG00000229807.5,nasopharyngeal carcinoma
+mirna_pre::mirbase_pre::hsa-mir-374a::MI0000782,lung cancer
+mirna_pre::mirbase_pre::hsa-mir-325::MI0000824,bladder cancer
+mirna_mat::mirbase_mature::hsa-miR-652-3p::MIMAT0003322,acute lymphocytic leukemia
+mirna_pre::mirbase_pre::hsa-mir-363::MI0000764,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-19b-3p::MIMAT0000074_1,breast cancer
+mirna_pre::mirbase_pre::hsa-mir-20b::MI0001519,colon cancer
+mirna_pre::mirbase_pre::hsa-mir-106a::MI0000113,lung cancer
+mirna_pre::mirbase_pre::hsa-mir-503::MI0003188,stomach cancer
+mirna_mat::mirbase_mature::hsa-miR-503-5p::MIMAT0002874,colorectal carcinoma
+mirna_pre::mirbase_pre::hsa-mir-424::MI0001446,epidermoid carcinoma
+mirna_mat::mirbase_mature::hsa-miR-424-3p::MIMAT0004749,lung non-small cell carcinoma
+mirna_pre::mirbase_pre::hsa-mir-891b::MI0005534,breast cancer
+mirna_mat::mirbase_mature::hsa-miR-513a-3p::MIMAT0004777,lung adenocarcinoma
+mirna_mat::mirbase_mature::hsa-miR-513a-3p::MIMAT0004777_1,lung adenocarcinoma
+mirna_pre::mirbase_pre::hsa-mir-506::MI0003193,ovarian serous carcinoma
+mirna_mat::mirbase_mature::hsa-miR-506-3p::MIMAT0002878,lung non-small cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-508-5p::MIMAT0004778,stomach cancer
+mirna_mat::mirbase_mature::hsa-miR-509-3p::MIMAT0002881,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-509-5p::MIMAT0004779,pancreatic cancer
+mirna_mat::mirbase_mature::hsa-miR-509-3p::MIMAT0002881_1,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-509-3p::MIMAT0002881_2,ovarian cancer
+mirna_mat::mirbase_mature::hsa-miR-509-5p::MIMAT0004779_1,pancreatic cancer
+mirna_pre::mirbase_pre::hsa-mir-224::MI0000301,esophageal squamous cell carcinoma
+mirna_mat::mirbase_mature::hsa-miR-224-3p::MIMAT0009198,breast cancer
