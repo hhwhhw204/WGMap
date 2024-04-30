@@ -45,9 +45,9 @@ echo "Cross validation performance and predicted anti-cancer target genes of cod
 
 
 # extract pancan fea
-echo "We provide the coding omic features of mutation, CNV, and gene expression"
+echo "We provide the coding omic features of mutation, CNV, and gene expression.As the file is too large to upload, please refer to the paper data website to download the original dataset."
 
-``cd /data/extract_fea/coding``
+``cd /extract_fea/coding``
 
 ``mkdir /root/capsule/results/coding_fea/``
 
@@ -96,9 +96,9 @@ echo "Cross validation performance and predicted anti-cancer target genes of non
 
 
 # extract fea (pan-cancer and specific-cancer)
-echo "We provide the non-coding omic features of mutation, CNV, and gene expression"
+echo "We provide the non-coding omic features of mutation, CNV, and gene expression.As the file is too large to upload, please refer to the paper data website to download the original dataset."
 
-``cd /data/extract_fea/non-coding``
+``cd /extract_fea/non-coding``
 
 ``python extract_fea.py -m mut -t Pancan``
 
