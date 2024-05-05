@@ -1,6 +1,6 @@
 # WGMap
 
-WGMap is a machine learning framework designed to identify promising anti-cancer targets across the whole genome. By integrating multi-omics data from large tumor cohorts, including The Cancer Genome Atlas (TCGA) and Pan-Cancer Analysis of Whole Genomes (PCAWG), WGMap provides a comprehensive and robust approach for anti-cancer target gene discovery.
+WGMap offers a machine-learning approach for researchers and clinicians to delve into the whole druggable genome of cancer and identify promising targets for anti-cancer therapies. By integrating multi-omics data from large tumor cohorts, including The Cancer Genome Atlas (TCGA) and Pan-Cancer Analysis of Whole Genomes (PCAWG), WGMap provides a comprehensive and robust approach for anti-cancer target gene discovery across the whole genome.
 
 ![wgmap](./WGMap.png)
 
