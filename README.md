@@ -4,13 +4,13 @@ WGMap is a machine learning framework designed to identify promising anti-cancer
 
 ![wgmap](./WGMap.png)
 
-# Key Features and Capabilities:
+# Key Features and Capabilities
 1. Multi-Omics Data Integration: WGMap analyzes various data types, including somatic mutations, copy number variations, gene expression, and DNA methylation, to gain a holistic understanding of the genomic landscape of cancer.
 2. Pan-Cancer and Cancer-Specific Targets: The framework identifies both pan-cancer targets, with potential applicability across various cancer types, and cancer-specific targets, tailored to individual cancer types.
 3. Coding and Non-Coding Genes: WGMap goes beyond the analysis of protein-coding genes and explores the vast potential of non-coding genes as anti-cancer targets.
 Extensive Target Landscape: The framework unveils a diverse set of potential targets, including 225 coding genes and an impressive 1,752 non-coding genes with pan-cancer potential, along with additional cancer-specific targets.
 
-# Running WGMap:
+# Running WGMap
 
 Disclaimer: The provided instructions assume you have the necessary computational resources and software dependencies installed. Please refer to the original paper and requirements.txt for detailed instructions and troubleshooting.
 
