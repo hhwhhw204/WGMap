@@ -9,6 +9,7 @@ WGMap offers a machine-learning approach for researchers and clinicians to delve
 2. Pan-Cancer and Cancer-Specific Targets: The framework identifies both pan-cancer targets, with potential applicability across various cancer types, and cancer-specific targets, tailored to individual cancer types.
 3. Coding and Non-Coding Genes: WGMap goes beyond the analysis of protein-coding genes and explores the vast potential of non-coding genes as anti-cancer targets.
 4. Extensive Target Landscape: The framework unveils a diverse set of potential targets, including 225 coding genes and an impressive 1,752 non-coding genes with pan-cancer potential, along with additional cancer-specific targets.
+5. Detailed information on the non-coding genes in the training set can be found in 'code/Non-codingCode/pancan_tier1/data/noncds_2.2.csv', and annotations for the prediction results are provided in 'result' files.
 
 # Running WGMap
 
